@@ -1,7 +1,7 @@
 ---
 version: 1
 service:
-  name: service a
+  name: service awesome
   lifecycle:
   tier:
   product:
