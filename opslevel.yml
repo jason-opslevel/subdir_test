@@ -11,6 +11,7 @@ service:
   description:
   aliases:
   - archivetest
+  - archivetest
   tags:
   repositories:
   tools:
