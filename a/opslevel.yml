@@ -1,7 +1,7 @@
 ---
 version: 1
 service:
-  name: service awesome
+  name: archive_test
   lifecycle:
   tier:
   product:
@@ -10,6 +10,7 @@ service:
   framework:
   description:
   aliases:
+  - archivetest
   tags:
   repositories:
   tools:
