@@ -1,0 +1,17 @@
+---
+version: 1
+service:
+  name: archive_test
+  lifecycle:
+  tier: tier_2
+  product:
+  owner: a
+  language:
+  framework:
+  description:
+  aliases:
+  - archivetest
+  tags:
+  repositories:
+  tools:
+  dependencies:
