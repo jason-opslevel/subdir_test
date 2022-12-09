@@ -1,7 +1,7 @@
 ---
 version: 1
 service:
-  name: archive_test
+  name: archive_tests
   lifecycle:
   tier:
   product:
@@ -10,7 +10,7 @@ service:
   framework:
   description:
   aliases:
-  - archivetest
+  - archivetests
   tags:
   repositories:
   tools:
